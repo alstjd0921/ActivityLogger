@@ -1,2 +1,2 @@
 # ActivityLogger
-Android Keylogger using accessibility vlnrability.
+Android Keylogger using accessibility vulnerability.
